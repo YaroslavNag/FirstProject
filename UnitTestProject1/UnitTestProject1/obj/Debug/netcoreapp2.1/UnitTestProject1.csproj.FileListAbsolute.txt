@@ -9,3 +9,6 @@ D:\Automation\UnitTestProject1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTest
 D:\Automation\UnitTestProject1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CoreCompileInputs.cache
 D:\Automation\UnitTestProject1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfoInputs.cache
 D:\Automation\UnitTestProject1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfo.cs
+D:\Automation\UnitTestProject1\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.pdb
+D:\Automation\UnitTestProject1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.dll
+D:\Automation\UnitTestProject1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.pdb
